@@ -1,0 +1,4 @@
+http://cs.brown.edu/people/pfelzens/segment/
+http://cs.brown.edu/people/pfelzens/papers/seg-ijcv.pdf	
+https://blog.csdn.net/ttransposition/article/details/38024557
+https://blog.csdn.net/ttransposition/article/details/38024605
