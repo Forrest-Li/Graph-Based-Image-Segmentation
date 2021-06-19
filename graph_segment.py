@@ -6,7 +6,7 @@ def graph_segment(num_pxls, num_edges, edges, k):
     :param num_pxls: number of pixels in original img
     :param num_edges: number of edges created
     :param edges: pair of edges
-    :param k: tao function param.
+    :param k: tau function param.
     :return: created Universe instance
     """
     # Sort edges
